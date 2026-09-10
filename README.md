@@ -79,6 +79,3 @@ raw data into meaningful insights and actionable decisions.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </p>
-
-
-Exploratory Data Analysis ███████████░░░░░░░░░  55%
