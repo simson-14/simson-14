@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm SIMSON
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights+%F0%9F%94%8D;Learning+Data+Analytics+%F0%9F%9A%80" alt="Typing SVG" />
