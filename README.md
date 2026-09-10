@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR NAME
+# 👋 Hi, I'm Simson
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Aspiring+Software+Developer+%F0%9F%92%BB;Learning+Every+Day+%F0%9F%9A%80;Building+Projects+with+Python+%F0%9F%94%A5" alt="Typing SVG" />
